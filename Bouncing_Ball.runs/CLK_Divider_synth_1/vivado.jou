@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Mon Dec 10 22:56:03 2018
+# Process ID: 15012
+# Current directory: C:/Users/Jorre/VivadoProjects/Bouncing_Ball/Bouncing_Ball.runs/CLK_Divider_synth_1
+# Command line: vivado.exe -log CLK_Divider.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source CLK_Divider.tcl
+# Log file: C:/Users/Jorre/VivadoProjects/Bouncing_Ball/Bouncing_Ball.runs/CLK_Divider_synth_1/CLK_Divider.vds
+# Journal file: C:/Users/Jorre/VivadoProjects/Bouncing_Ball/Bouncing_Ball.runs/CLK_Divider_synth_1\vivado.jou
+#-----------------------------------------------------------
+source CLK_Divider.tcl -notrace

@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Tue Dec 18 15:18:34 2018
+# Process ID: 11672
+# Current directory: C:/Users/Jorre/VivadoProjects/Bouncing_Ball/Bouncing_Ball.sim/sim_1/impl/timing/xsim
+# Command line: wbtcv.exe -mode batch -source C:/Users/Jorre/VivadoProjects/Bouncing_Ball/Bouncing_Ball.sim/sim_1/impl/timing/xsim/xsim.dir/VGA_TOP_time_impl/webtalk/xsim_webtalk.tcl -notrace
+# Log file: C:/Users/Jorre/VivadoProjects/Bouncing_Ball/Bouncing_Ball.sim/sim_1/impl/timing/xsim/webtalk.log
+# Journal file: C:/Users/Jorre/VivadoProjects/Bouncing_Ball/Bouncing_Ball.sim/sim_1/impl/timing/xsim\webtalk.jou
+#-----------------------------------------------------------
+source C:/Users/Jorre/VivadoProjects/Bouncing_Ball/Bouncing_Ball.sim/sim_1/impl/timing/xsim/xsim.dir/VGA_TOP_time_impl/webtalk/xsim_webtalk.tcl -notrace

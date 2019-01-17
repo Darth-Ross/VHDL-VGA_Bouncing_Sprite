@@ -1,0 +1,13 @@
+set_property IOSTANDARD LVCMOS33 [get_ports h_sync]
+set_property IOSTANDARD LVCMOS33 [get_ports CLK_IN]
+set_property IOSTANDARD LVCMOS33 [get_ports v_sync]
+set_property PACKAGE_PIN W5 [get_ports CLK_IN]
+set_property PACKAGE_PIN P19 [get_ports h_sync]
+set_property PACKAGE_PIN R19 [get_ports v_sync]
+
+set_property IOSTANDARD LVCMOS33 [get_ports blue_out]
+set_property IOSTANDARD LVCMOS33 [get_ports red_out]
+set_property IOSTANDARD LVCMOS33 [get_ports green_out]
+set_property PACKAGE_PIN J18 [get_ports blue_out]
+set_property PACKAGE_PIN N19 [get_ports red_out]
+set_property PACKAGE_PIN D17 [get_ports green_out]

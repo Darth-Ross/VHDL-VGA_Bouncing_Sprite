@@ -1,0 +1,6 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  --include "../../../../../Bouncing_Ball.srcs/sources_1/ip/CLK_Divider" \
+"VGA_TOP_time_impl.v" \
+
+# Do not sort compile order
+nosort
